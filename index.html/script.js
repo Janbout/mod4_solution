@@ -7,11 +7,11 @@
   )();
 
   function hellospeaker(name){
-    console.log("Hello" + name )
+    console.log("Hello" + " " + name )
   };
   function byespeaker (name2)
   {
-    console.log("Good Bye" + name2)
+    console.log("Good Bye" + " " + name2)
   };
 
   var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
